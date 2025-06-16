@@ -1,64 +1,56 @@
-# 👋 Olá! Eu sou o Leonardo | Hello! I'm Leonardo
+# Leonardo Schuquel
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação, focado em transformar ideias em soluções reais com código limpo, propósito e curiosidade constante.
+Desenvolvedor em formação com foco em Python, dados e automação. Atualmente curso Análise e Desenvolvimento de Sistemas, onde aplico disciplina e foco adquiridos em 4 anos de atuação no Exército Brasileiro para resolver problemas com código.
 
-I'm a **Systems Analysis and Development** student and aspiring developer, passionate about turning ideas into real solutions with clean code, purpose, and continuous curiosity.
-
----
-
-## 🧠 Sobre mim | About me
-
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (2º semestre)  
-- 💪 Transição de carreira após 4 anos no Exército Brasileiro, com disciplina, resiliência e espírito de equipe  
-- 📊 Construindo projetos práticos como uma **calculadora de IMC com inteligência integrada** e um **organizador de finanças pessoais**  
-- 🌍 Em busca de oportunidades de estágio ou freelance (remoto ou presencial), nacional e internacional  
-- 📘 Comprometido com aprendizado constante e entregas de qualidade
-
-- 🎓 Currently studying Systems Analysis and Development (1st semester)  
-- 💪 Career change after 4 years in the Brazilian Army, bringing discipline, resilience, and teamwork  
-- 📊 Developing real-world projects such as an **intelligent BMI calculator** and a **personal finance tracker**  
-- 🌍 Open to internship or freelance opportunities (remote or on-site), both nationally and internationally  
-- 📘 Committed to lifelong learning and high-quality deliveries
+Aspiring developer focused on Python, data and automation. I'm currently studying Systems Analysis and Development, applying discipline and focus gained during 4 years of service in the Brazilian Army to solve problems through code.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas | Technologies & Tools
+## Sobre | About
 
-- 💻 **Python** (foco principal | main focus)
-- 🗃️ JSON
-- 🔁 Git e GitHub para versionamento | Git & GitHub for version control
-- 📚 Inglês técnico intermediário | Intermediate technical English
+- 🎯 Em busca de estágio ou projetos práticos (presencial ou remoto)  
+  Looking for internships or real-world projects (on-site or remote)
+
+- 💻 Python como principal linguagem  
+  Python as main programming language
+
+- 📊 Projetos aplicados nas áreas de saúde e finanças pessoais  
+  Projects focused on health and personal finance
+
+- 🧠 Aprendizado constante, com foco em soluções funcionais e bem estruturadas  
+  Constant learning, aiming for functional and well-structured solutions
+
+- 🌍 Aberto a colaborações nacionais e internacionais  
+  Open to national and international collaborations
 
 ---
 
-## 🚀 Projetos em Destaque | Featured Projects
+## Projetos | Projects
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [FitTrack AI](https://github.com/Leonardo-Schuquel/FitTrack-AI) | Calculadora de IMC com sugestões de treino baseadas em dados do usuário | Python, lógica, dados |
-| [FinScope](https://github.com/Leonardo-Schuquel/FinScope) | Organizador de finanças com visualização mensal e categorias | Python, JSON, análise de dados |
-
-> *Mais projetos em breve. Foco em soluções úteis, acessíveis e bem documentadas.*  
-> *More projects coming soon. Focused on useful, accessible, and well-documented solutions.*
-
----
-
-## 📫 Contato | Contact
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/LeonardoSchuquel)
-- 💼 Aberto a propostas de estágio, parcerias e freelas | Open to internships, collaborations, and freelance work
-- 📬 Email sob demanda | Email upon request
-- 📬 Email: [Clique para enviar](mailto:leonardo@gmail.com)
-
+| [FitTrack AI](https://github.com/Leonardo-Schuquel/FitTrack-AI) | Calculadora de IMC com sugestão de treinos baseada em dados do usuário  
+BMI calculator with workout suggestions based on user data | Python |
+| [FinScope](https://github.com/Leonardo-Schuquel/FinScope) | Sistema de organização de finanças com visualização de dados mensais  
+Finance tracker with monthly data visualization | Python, JSON |
 
 ---
 
-### 📌 Frase que me inspira | Quote that inspires me:
+## Tecnologias | Tech Stack
 
-> _"Disciplina é o caminho entre intenção e realização."_  
-> _"Discipline is the bridge between goals and accomplishment."_
+- Python (principal foco / main focus)
+- Pandas, Matplotlib
+- SQLite, JSON
+- Git e GitHub
 
 ---
 
-Obrigado por visitar meu perfil! 😊  
-Thanks for visiting my profile! 😊
+## Contato | Contact
+
+- [LinkedIn](https://www.linkedin.com/in/LeonardoSchuquel)
+- Email: leonardoschuquelads@gmail.com
+
+---
+
+_Disponível para novos desafios e projetos reais._  
+_Open to new challenges and real-world projects._
