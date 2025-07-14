@@ -31,7 +31,7 @@ Aspiring developer focused on Python, data and automation. I'm currently studyin
 |--------|-----------|-------------|
 | [FitTrack AI](https://github.com/Leonardo-Schuquel/FitTrack-AI) | Calculadora de IMC com sugestão de treinos baseada em dados do usuário  
 BMI calculator with workout suggestions based on user data | Python |
-| [FinScope](https://github.com/Leonardo-Schuquel/FinScope) | Sistema de organização de finanças com visualização de dados mensais  
+| [FinScope](https://github.com/Leonardo-Schuquel/FineScope) | Sistema de organização de finanças com visualização de dados mensais  
 Finance tracker with monthly data visualization | Python, JSON |
 
 ---
