@@ -1,6 +1,6 @@
 # Leonardo Schuquel
 
-Desenvolvedor em formação com foco em Python, dados e automação. Atualmente curso Análise e Desenvolvimento de Sistemas, onde aplico disciplina e foco adquiridos em 4 anos de atuação no Exército Brasileiro para resolver problemas com código.
+Desenvolvedor em formação com foco em Python, dados e automação. Atualmente curso Sistemas de Informação, onde aplico disciplina e foco adquiridos em 4 anos de atuação no Exército Brasileiro para resolver problemas com código.
 
 Aspiring developer focused on Python, data and automation. I'm currently studying Systems Analysis and Development, applying discipline and focus gained during 4 years of service in the Brazilian Army to solve problems through code.
 
