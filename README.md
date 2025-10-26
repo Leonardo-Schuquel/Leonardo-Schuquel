@@ -48,7 +48,7 @@ Finance tracker with monthly data visualization | Python, JSON |
 ## Contato | Contact
 
 - [LinkedIn](https://www.linkedin.com/in/LeonardoSchuquel)
-- Email: leonardoschuquelads@gmail.com
+- Email: lschuquel.engsoft@gmail.com
 
 ---
 
